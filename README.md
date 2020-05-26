@@ -1,4 +1,5 @@
 # Node Scheduler for Facebook Pages
+https://quantizd.com/building-post-scheduler-with-node-js-react-facebook-pages/
 
 ### Setup Instructions
 
